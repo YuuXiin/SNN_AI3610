@@ -10,3 +10,5 @@ snn_DANN.ipynb：基于CNN的SNN模型，采用了DANN算法，可用于ColoredM
 transformer_Colored.ipynb：基于Transformer的SNN模型，采用了DANN算法，可用于ColoredMNIST分类，记录了时间步T=1，3，5，7，10的结果。
 
 mamba_Colored.ipynb：基于Mamba的SNN模型，采用了DANN算法，可用于ColoredMNIST分类，记录了时间步T=1，3，5，7，10的结果。
+
+SNN_IRM.ipynb: 基于IRM的SNN模型，用于ColoredMNIST分类
